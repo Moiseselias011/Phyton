@@ -1,5 +1,4 @@
 #variable
-
 edad = 17
 calificacion = 70
 frutas = ["manzana", "banana", "naranja"]
@@ -9,7 +8,7 @@ contador = 0
 
 # if 
 
-if  a >= 18:
+if  edad >= 18:
    print ("eres mayor de 18? " )
 else:
    print ("eres menor de 18 ") 
